@@ -6,4 +6,5 @@ sometimes you need to wipe your slate clean and start over. or format your MacBo
 - you'll then be presented with 'macOS Recovery' screen. here you'll be able to select from a number of options, 'Restoring from Time Machine', 'Reinstall macOS Monterey', 'Safari' and 'Disk Utility'. select whichever is desired.
 
 you're welcome! 🤓
+
 ---
