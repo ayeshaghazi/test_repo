@@ -36,9 +36,22 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+#defaults:
+  #- scope:
+      #path: ""
+      #type: posts
+    #values:
+      #tags: Other
+
 defaults:
+  # _posts
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
-      tags: Other
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
